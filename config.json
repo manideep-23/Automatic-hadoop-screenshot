@@ -1,0 +1,11 @@
+{
+  "resource_manager_url": "http://your-rm-host:8088",
+  "scripts_directory": "scripts",
+  "output_directory": "output",
+  "screenshot_directory": "output/screenshots",
+  "job_order_file": "config/job_order.txt",
+  "report_doc_path": "output/job_report.docx",
+  "report_csv_path": "output/job_report.csv",
+  "headless_browser_wait_sec": 5,
+  "log_file": "logs/run.log"
+}
